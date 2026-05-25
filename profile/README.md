@@ -1,8 +1,17 @@
-⚡ Adaptive PHP Runtime & Ecosystem
+<p align="center">
+  <img src="./../nexph-logo.png" alt="Nexph" width="180" />
+</p>
+
+<p align="center">
+Adaptive PHP Runtime & Ecosystem
+</p>
+
+---
 
 Nexph is a modern event-driven PHP runtime focused on performance, realtime systems, memory safety, and developer experience.
 
 Built around:
+
 - Adaptive runtime architecture
 - Queue-first async design
 - Worker isolation
