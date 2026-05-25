@@ -12,6 +12,6 @@ Built around:
 • HTTP / WebSocket / SSE support
 • Observability-first runtime metrics
 
-Designed for high concurrency, realtime applications, streaming systems, APIs, IoT, and modern backend workloads — while keeping PHP simple and productive.
+Designed for high concurrency, realtime applications, streaming systems, APIs, IoT, and modern backend workloads while keeping PHP simple and productive.
 
 PHP with runtime engineering vibes
