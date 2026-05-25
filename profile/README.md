@@ -14,4 +14,4 @@ Built around:
 
 Designed for high concurrency, realtime applications, streaming systems, APIs, IoT, and modern backend workloads — while keeping PHP simple and productive.
 
-PHP with runtime engineering vibes 😈
+PHP with runtime engineering vibes
