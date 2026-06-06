@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./../nexph-logo.png" alt="Nexph" width="180" />
+  <img src="https://raw.githubusercontent.com/nexphlabs/.github/refs/heads/main/nexph-logo.png" alt="Nexph" width="180" />
 </p>
 
 <p align="center">
