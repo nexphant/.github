@@ -29,6 +29,6 @@ Built around:
 
 Nexphant is designed for APIs, realtime systems, streaming workloads, background processing, IoT services, and modern backend applications that require persistent runtime behavior while keeping PHP productive and approachable.
 
-Inspired by the flexibility of Node.js, the simplicity of Go-style services, and modern runtime engineering principles.
+Inspired by Node.js flexibility, Go-style services, Rust-like ownership ideas, and the elegance of modern PHP frameworks, Nexph is designed to make PHP feel fast, modern, scalable, and safe again.
 
 PHP, unchained.
