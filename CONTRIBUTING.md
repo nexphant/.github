@@ -194,7 +194,7 @@ Please do not publicly disclose security vulnerabilities immediately.
 
 Contact:
 
-* [foundation@nexph.dev](mailto:foundation@nexph.dev)
+* [foundation@nexph.dev](mailto:foundation@nexphant.com)
 
 ---
 
