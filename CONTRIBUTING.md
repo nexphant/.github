@@ -1,8 +1,8 @@
-# Contributing to Nexph
+# Contributing to Nexphant
 
-First of all, thank you for considering contributing to Nexph
+First of all, thank you for considering contributing to Nexphant
 
-Nexph is an experimental high-performance PHP runtime and framework ecosystem focused on async architecture, developer experience, and modern runtime design.
+Nexphant is an experimental high-performance PHP runtime and framework ecosystem focused on async architecture, developer experience, and modern runtime design.
 
 We welcome contributions of all kinds:
 
@@ -19,7 +19,7 @@ We welcome contributions of all kinds:
 
 # Philosophy
 
-Nexph is built around several core principles:
+Nexphant is built around several core principles:
 
 * Performance without sacrificing developer experience
 * Clean and modular architecture
@@ -41,16 +41,16 @@ We value:
 # Project Structure
 
 ```txt
-nexph/framework      -> framework layer, routing, middleware, lifecycle
-nexph/server         -> HTTP/WebSocket/SSE server
-nexph/runtime        -> workers, event loop, fibers, timers
-nexph/core           -> ownership, context, cancellation
-nexph/support        -> helpers, config, environment utilities
-nexph/database       -> pools, drivers, async database layer
-nexph/queue          -> queue runtime
-nexph/cache          -> cache abstraction
-nexph/observability  -> metrics, health, logging
-nexph/dev            -> hot reload and DX tooling
+Nexphant/framework      -> framework layer, routing, middleware, lifecycle
+Nexphant/server         -> HTTP/WebSocket/SSE server
+Nexphant/runtime        -> workers, event loop, fibers, timers
+Nexphant/core           -> ownership, context, cancellation
+Nexphant/support        -> helpers, config, environment utilities
+Nexphant/database       -> pools, drivers, async database layer
+Nexphant/queue          -> queue runtime
+Nexphant/cache          -> cache abstraction
+Nexphant/observability  -> metrics, health, logging
+Nexphant/dev            -> hot reload and DX tooling
 ```
 
 ---
@@ -85,8 +85,8 @@ event
 Clone the repository:
 
 ```bash
-git clone https://github.com/nexphlabs/nexph.git
-cd nexph
+git clone https://github.com/Nexphantlabs/Nexphant.git
+cd Nexphant
 ```
 
 Install dependencies:
@@ -98,7 +98,7 @@ composer install
 Run development server:
 
 ```bash
-php nexph.dev.php
+php Nexphant.dev.php
 ```
 
 ---
@@ -238,7 +238,7 @@ By contributing, you agree that your contributions will be licensed under the pr
 
 # Special Thanks
 
-Nexph is inspired by and deeply respects the async and systems ecosystem around PHP and beyond:
+Nexphant is inspired by and deeply respects the async and systems ecosystem around PHP and beyond:
 
 * ReactPHP
 * Amp
